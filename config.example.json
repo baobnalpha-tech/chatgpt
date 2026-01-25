@@ -1,0 +1,12 @@
+{
+  "columns": {
+    "date": "Ngày",
+    "employee_id": "Mã NV",
+    "employee_name": "Nhân sự",
+    "branch": "Cơ sở",
+    "metric": "Chỉ số",
+    "value": "Giá trị"
+  },
+  "date_formats": ["%d/%m/%Y"],
+  "recent_days": 14
+}
